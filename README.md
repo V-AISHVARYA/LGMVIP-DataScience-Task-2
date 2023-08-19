@@ -1,5 +1,5 @@
 # **LGMVIP-DataScience-Task-2**  
-**STOCK MARKET PREDICTION AND FFORECASTING USING STALKED LSTM**(Long Short-Term Memory) is a type of neural network architecture that is commonly used for time series prediction tasks, including stock market forecasting.  
+**STOCK MARKET PREDICTION AND FORECASTING USING STALKED LSTM**(Long Short-Term Memory), is a type of neural network architecture that is commonly used for time series prediction tasks, including stock market forecasting.  
 
 
 ## Project Overview
